@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vincenzo Bove</h1>
-<h3 align="center">A passionate Architect from Italy!</h3>
+<h3 align="center">A passionate Architect from Spain!</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/Vinko90/Vinko90/blob/main/images/coder.gif"  >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinko90&label=Profile%20views&color=0e75b6&style=flat" alt="vinko90" /> </p>
 
