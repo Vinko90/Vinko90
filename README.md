@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **.NET & Azure**
 
-- 📫 How to reach me **tbd@html.com**
+- 📫 How to reach me **vbove90@linux.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vbove90/](https://www.linkedin.com/in/vbove90/)
 
