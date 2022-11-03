@@ -1,12 +1,12 @@
-[![MasterHead](https://github.com/Vinko90/Vinko90/blob/main/images/header.jpg)
+![MasterHead](https://github.com/Vinko90/Vinko90/blob/main/images/header.jpg)
 <h1 align="center">Hi 👋, I'm Vincenzo Bove</h1>
 <h3 align="center">A passionate Architect from Spain!</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/Vinko90/Vinko90/blob/main/images/coder.gif"  >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinko90&label=Profile%20views&color=0e75b6&style=flat" alt="vinko90" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinko90" alt="vinko90" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://github.com/Vinko90/Vinko90/blob/main/images/coder.gif">
 - 🔭 I’m currently working on **.NETMicroserviceTemplate**
 
 - 🌱 I’m currently learning **Advanced Distributed Systems**
