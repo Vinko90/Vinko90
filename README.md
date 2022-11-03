@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinko90" alt="vinko90" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Vinko90/Vinko90/blob/main/images/coder.gif">
+
 - 🔭 I’m currently working on **.NETMicroserviceTemplate**
 
 - 🌱 I’m currently learning **Advanced Distributed Systems**
